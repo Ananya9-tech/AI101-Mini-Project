@@ -9,3 +9,10 @@ Predicts Students' Perceived Stress Levels using Social Media Usage and Sleep Pa
 |Kharatmol Shalini Satish|2026EEB1365|PPT Lead
 |Avdit Basera|2026AIB1024|Video Lead
 
+### Project Structure
+stress_level_analyzer/
+Social_media_impact_on_life.csv
+
+
+
+
