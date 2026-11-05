@@ -16,6 +16,10 @@ stress_level_analyzer/
 ├── requirements.txt
 ├── Social_media_impact_on_life.csv
 └── ai101miniproject.ipynb
+```
+#### Setup
+git clone https://github.com/Ananya9-tech/AI101-Mini-Project.git
+
 
 
 
