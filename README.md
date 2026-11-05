@@ -13,8 +13,10 @@ Predicts Students' Perceived Stress Levels using Social Media Usage and Sleep Pa
 ```text
 stress_level_analyzer/
 ├── README.md
+├── requirements.txt
 ├── Social_media_impact_on_life.csv
 └── ai101miniproject.ipynb
+
 
 
 
