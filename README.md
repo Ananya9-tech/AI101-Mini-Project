@@ -10,8 +10,12 @@ Predicts Students' Perceived Stress Levels using Social Media Usage and Sleep Pa
 |Avdit Basera|2026AIB1024|Video Lead
 
 ### Project Structure
+```text
 stress_level_analyzer/
-Social_media_impact_on_life.csv
+├── README.md
+├── Social_media_impact_on_life.csv
+└── ai101miniproject.ipynb
+
 
 
 
