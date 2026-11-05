@@ -1,4 +1,4 @@
-numpy
-pandas
-matplotlib
-scikit-learn
+numpy==Version 2.4.6
+pandas== Version 2.2.3
+matplotlib==Version 3.10.0
+scikit-learn==Version 1.6.1
