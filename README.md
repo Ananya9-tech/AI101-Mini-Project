@@ -22,7 +22,7 @@ stress_level_analyzer/
 git clone https://github.com/Ananya9-tech/AI101-Mini-Project.git
 cd AI101-Mini-Project
 python -m venv venv
-
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
