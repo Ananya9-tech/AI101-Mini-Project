@@ -17,8 +17,25 @@ stress_level_analyzer/
 ├── Social_media_impact_on_life.csv
 └── ai101miniproject.ipynb
 ```
-#### Setup
+### Setup
+```
 git clone https://github.com/Ananya9-tech/AI101-Mini-Project.git
+cd AI101-Mini-Project
+python -m venv venv
+
+pip install -r requirements.txt
+```
+
+### How To Run
+1.Run python aiminiproject.ipynb
+
+### Links
+
+
+### AI Use Disclosure
+
+
+
 
 
 
