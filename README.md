@@ -33,6 +33,8 @@ pip install -r requirements.txt
 
 
 ### AI Use Disclosure
+To draft and organize the structure of project's readme file, to write the code to know the versions of imported libraries accurately.
+
 
 
 
