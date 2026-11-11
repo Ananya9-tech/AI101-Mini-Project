@@ -17,16 +17,8 @@ stress_level_analyzer/
 ├── Social_media_impact_on_life.csv
 └── ai101miniproject.ipynb
 ```
-### Setup
-```
-git clone https://github.com/Ananya9-tech/AI101-Mini-Project.git
-cd AI101-Mini-Project
-python -m venv venv
-venv\Scripts\activate
-python -m pip install -r requirements.txt
-```
 
-### How To Run
+### Setup
 
 Open Command Prompt/Terminal and run these commands one by one:
 
@@ -42,7 +34,7 @@ Open Command Prompt/Terminal and run these commands one by one:
    cd AI101-Mini-Project
    ```
 
-4. Open the notebook and click run all
+4. Open the notebook and click "RUN ALL"
 
 NOTE:- there is no need to pre-install libraries. The program will download missing libraries(if any) on its own.
 
