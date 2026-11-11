@@ -48,11 +48,12 @@ NOTE:- there is no need to pre-install libraries. The program will download miss
 
 
 ### Expected Output
-1.Dataset summary and statistics
-2.Model coefficients and intercept
-3.Training and testing MAE, MSE, RMSE and R2 score
-4.A scatter plot of actual vs predicted stress scores
-5.A histogram of the residual errors
+1. Dataset summary and statistics
+2. Model coefficients and intercept
+3. Training and testing MAE,MSE,RMSE,R2 score
+4. A scatter plot of actual vs predicted test scores
+5. A histogram of residual test errors
+
 
 
 ### Links
