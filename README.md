@@ -54,6 +54,7 @@ NOTE:- there is no need to pre-install libraries. The program will download miss
 
 ### Links
 Video Link : https://www.youtube.com/watch?v=SMJH40g_oVQ
+PPT Link : https://github.com/Ananya9-tech/AI101-Mini-Project/blob/main/Final_AI_Project_presentation_ppt.pdf
 
 
 ### AI Use Disclosure
