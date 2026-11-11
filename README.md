@@ -27,7 +27,33 @@ python -m pip install -r requirements.txt
 ```
 
 ### How To Run
-1.Run python aiminiproject.ipynb
+
+Open Command Prompt/Terminal and run these commands one by one:
+
+1. Clone the repository
+
+   ```bat
+   git clone https://github.com/Ananya9-tech/AI101-Mini-Project.git
+   ```
+
+2. Go into the project folder
+
+   ```bat
+   cd AI101-Mini-Project
+   ```
+
+4. Open the notebook and click run all
+
+NOTE:- there is no need to pre-install libraries. The program will download missing libraries(if any) on its own.
+
+
+### Expected Output
+1.Dataset summary and statistics
+2.Model coefficients and intercept
+3.Training and testing MAE, MSE, RMSE and R2 score
+4.A scatter plot of actual vs predicted stress scores
+5.A histogram of the residual errors
+
 
 ### Links
 
