@@ -56,7 +56,7 @@ NOTE:- there is no need to pre-install libraries. The program will download miss
 
 
 ### AI Use Disclosure
-To draft and organize the structure of project's readme file, to write the code to know the versions of imported libraries accurately.
+To draft and organize the structure of project's readme file, to write the code to know the versions of imported libraries accurately and to write the code for setup.
 
 
 
