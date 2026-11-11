@@ -34,8 +34,12 @@ Open Command Prompt/Terminal and run these commands one by one:
    cd AI101-Mini-Project
    ```
 
-4. Open the notebook and click "RUN ALL"
-
+4. Open the notebook in Visual Studio Code
+   ```bat
+   code ai101miniproject.ipynb
+   ```
+5. Click RUN ALL
+   
 NOTE:- there is no need to pre-install libraries. The program will download missing libraries(if any) on its own.
 
 
